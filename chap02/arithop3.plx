@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file arithop3.plx
-# @brief Multiply and devide.
+# arithop3.plx
 
 use warnings;
 

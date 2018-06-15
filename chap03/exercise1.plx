@@ -1,6 +1,7 @@
 #!/usr/bin/perl
-# @file exer-3-1.plx
-# @brief
+# exer-3-1.plx
+#
+# Brief
 #     When you assign to a list, the elements are copied over
 #     from the right to the left:
 #
@@ -12,6 +13,12 @@
 #     2. There are more elements on the left than on the right.
 #     3. There is a list on the left but a single scalar on the right.
 #     4. There is a single scalar on the left but a list on the right.
+#
+# Output
+#     10, 20
+#     10, 20,
+#     100,
+#     20
 
 ($a, $b) = (10, 20, 30);
 print "$a, $b\n";

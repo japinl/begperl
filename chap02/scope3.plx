@@ -1,14 +1,11 @@
 #!/usr/bin/perl
-# @file scope1.plx
-# @brief Define global variables with strict statement.
+# scope3.plx
 
 use strict;
 use warnings;
 
-our $record;
-$record = 4;
-
-print "We're at record ", $record, "\n";
+our $record = 3;
+print qq/We're at record /, $record, "\n";
 
 {
     my $record;

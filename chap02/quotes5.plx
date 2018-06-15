@@ -1,7 +1,6 @@
 #!/usr/bin/perl
-# @file quotes5.plx
-# @brief Alternative delimiters
+# quotes5.plx
 
 use warnings;
 
-print qq/'"Hi," said Jacck. "Have you read Slashdot today?"'\n/;
+print qq/'"Hi," said Jack. "Have you read Slashdot today?"'\n/;

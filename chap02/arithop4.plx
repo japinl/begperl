@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# @file arithop5.plx
+# arithop4.plx
 
 use warnings;
 

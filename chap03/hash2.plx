@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file hash2.plx
-# @brief Looping over a hash.
+# hash2.plx
 
 use strict;
 use warnings;
@@ -14,4 +13,14 @@ my %where = (
 
 for (keys %where) {
     print "$_ lives in $where{$_}\n";
+}
+
+print "Sorted:\n";
+for (sort(keys %where)) {
+    print "$_ lives in $where{$_}\n";
+}    
+
+print "Use each:\n";
+while (my ($key, $value) = each %where) {
+    print $key, ": ", $value, "\n";
 }

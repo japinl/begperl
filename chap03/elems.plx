@@ -1,6 +1,8 @@
 #!/usr/bin/perl
-# @file elems.plx
-# @brief Show the difference between the scalar @array and $#array.
+# elems.plx
+
+use strict;
+use warnings;
 
 my @array = qw(alpha bravo charlie delta);
 print "Scalar value: ", scalar @array, "\n";

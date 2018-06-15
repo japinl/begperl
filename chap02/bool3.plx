@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file bool3.plx
-# @brief Compare numbers for inequallty.
+# bool3.plx
 
 use warnings;
 

@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file joke1.plx
-# @brief Tell us some jokes.
+# joke1.plx
 
 use strict;
 use warnings;

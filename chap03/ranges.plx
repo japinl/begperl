@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file ranges.plx
-# @brief Count up and down.
+# ranges.plx
 
 use strict;
 use warnings;

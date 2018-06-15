@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file badprefix.plx
-# @brief Array index.
+# badprefix.plx
 
 use strict;
 use warnings;

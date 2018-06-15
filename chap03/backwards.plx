@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file backwards.plx
-# @brief Use a negative as an index in list.
+# backwards.plx
 
 use strict;
 use warnings;

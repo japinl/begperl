@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file shift.plx
-# @brief Shift and unshift.
+# shift.plx
 
 use strict;
 use warnings;
@@ -10,7 +9,7 @@ use warnings;
 my @array = ();
 unshift(@array, "first");
 print "Array is now: @array\n";
-unshift(@array, "second", "third");
+unshift @array, "second", "third";
 print "Array is now: @array\n";
 shift @array;
 print "Array is now: @array\n";

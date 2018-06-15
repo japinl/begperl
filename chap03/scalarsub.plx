@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file scalarsub.plx
-# @brief Extract element from list using a scalar variable.
+# scalarsub.plx
 
 use strict;
 use warnings;

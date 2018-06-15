@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file joke2.plx
-# @brief Joke Machine II - The revenge.
+# joke2.plx
 
 use strict;
 use warnings;

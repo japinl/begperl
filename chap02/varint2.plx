@@ -1,9 +1,8 @@
 #!/usr/bin/perl
-# @file varint2.plx
-# @brief Variable interpolation within single-quoted strings.
+# varint2.plx
 
 use strict;
 use warnings;
 
-my $name = "Japin";
+my $name = "fred";
 print 'My name is $name\n';

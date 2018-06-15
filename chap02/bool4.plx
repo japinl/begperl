@@ -1,7 +1,5 @@
 #!/usr/bin/perl
-# @file bool4.plx
-# @brief Check greater-than-or-equal-to and less-than-or-euqal-to
-#        with the >= and <= operators, respectively.
+# bool4.plx
 
 use warnings;
 

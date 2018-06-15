@@ -1,6 +1,5 @@
 #!/usr/bin/perl
 # @file forloop2.plx
-# @brie Use for loop to double elements of an array.
 
 use strict;
 use warnings;

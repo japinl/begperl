@@ -1,11 +1,9 @@
 #!/usr/bin/perl
-# @file varint3.plx
-# @brief Variable interpolation happens every time we construct a string.
+# varint3.plx
 
 use strict;
 use warnings;
 
-my $name = "Japin";
-my $salutation = "Dear $name";
+my $name = "fred";
+my $salutation = "Dear $name,";
 print $salutation, "\n";
-print "$salutation\n";

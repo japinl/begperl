@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file bool2.plx
-# @brief Use != to test whether they're not equal.
+# bool2.plx
 
 use warnings;
 

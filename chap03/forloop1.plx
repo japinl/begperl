@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file forloop1.plx
-# @breif Use for loop in perl.
+# forloop1.plx
 
 use strict;
 use warnings;

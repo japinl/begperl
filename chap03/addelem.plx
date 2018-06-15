@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file addelem.plx
-# @brief Add elements to an array.
+# addelem.plx
 
 use strict;
 use warnings;

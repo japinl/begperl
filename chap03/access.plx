@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file access.plx
-# @brief Access list values.
+# access.plx
 
 use strict;
 use warnings;

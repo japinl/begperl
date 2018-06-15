@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file mixedlist.plx
-# @brief Show how to use mixed list.
+# mixedlist.plx
 
 use strict;
 use warnings;

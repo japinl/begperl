@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file sort2.plx
-# @brief Sort on numbers.
+# sort2.plx
 
 use strict;
 use warnings;

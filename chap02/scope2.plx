@@ -1,13 +1,11 @@
 #!/usr/bin/perl
-# @file scope1.plx
-# @brief Use strict statement.
+# scope2.plx
 
 use strict;
 use warnings;
 
-$record = 4;
-
-print "We're at record ", $record, "\n";
+$record = 3;
+print qq/We're at record /, $record, "\n";
 
 {
     my $record;

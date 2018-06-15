@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file countdown.plx
-# @brief Use `reverse' to count down ranges.
+# countdown.plx
 
 use strict;
 use warnings;

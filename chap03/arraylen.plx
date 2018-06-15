@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file baddayarray1.plx
-# @brief Assign an array to a scalar.
+# arraylen.plx
 
 use strict;
 use warnings;

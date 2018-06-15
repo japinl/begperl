@@ -1,12 +1,10 @@
 #!/usr/bin/perl
-# @file scope1.plx
-# @brief Lexical variables.
+# scope1.plx
 
 use warnings;
 
-$record = 4;
-
-print "We're at record ", $record, "\n";
+$record = 3;
+print qq/We're at record /, $record, "\n";
 
 {
     my $record;

@@ -1,7 +1,6 @@
-#!/usr/bin/perl
-# @file string2.plx
-# @brief Repetition operator.
+#/usr/bin/perl
+# string2.plx
 
 use warnings;
 
-print "GO!" x3 . "\n";
+print "GO! " x3, "\n";

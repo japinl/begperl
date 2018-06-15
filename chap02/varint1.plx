@@ -1,9 +1,8 @@
 #!/usr/bin/perl
-# @file varint1.plx
-# @brief Variable interpolation.
+# varint1.plx
 
 use strict;
 use warnings;
 
-my $name = "Japin";
+my $name = "fred";
 print "My name is $name\n";

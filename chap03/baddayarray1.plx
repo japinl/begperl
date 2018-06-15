@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file baddayarray1.plx
-# @brief The $days and @days are different.
+# baddayarray1.plx
 
 use strict;
 use warnings;

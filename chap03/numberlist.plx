@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# @file numberlist.plx
+# numberlist.plx
 
 use strict;
 use warnings;

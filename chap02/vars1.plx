@@ -1,8 +1,7 @@
 #!/usr/bin/perl
-# @file vars1.plx
-# @brief Show how to use scalar variable.
+# vars1.plx
 
 use warnings;
 
-$name = "Japin";
+$name = "fred";
 print "My name is " . $name . "\n";

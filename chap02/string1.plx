@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file string1.plx
-# @brief Concatenation operator.
+# string1.plx
 
 use warnings;
 

@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file bitop1.plx
-# @brief Show how to use and  operator in perl.
+# bitop1.plx
 
 use warnings;
 

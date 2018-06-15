@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file sort2.plx
-# @brief Give a block to describe how to two values should be ordered.
+# sort3.plx
 
 use strict;
 use warnings;

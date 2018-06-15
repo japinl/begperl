@@ -1,7 +1,6 @@
 #!/usr/bin/perl
-# @file string3.plx
-# @brief Conjunct repetition and concatenation operator.
+# string3.plx
 
 use warnings;
 
-print "Ba" . "na"x4 . "\n";
+print "Ba" . "na" x4 . "\n";

@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file ascii.plx
-# @brief Find the character's value by using ord() function.
+# ascii.plx
 
 use warnings;
 

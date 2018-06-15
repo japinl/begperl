@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file multilist.plx
-# @brief List slice.
+# multilist.plx
 
 use strict;
 use warnings;

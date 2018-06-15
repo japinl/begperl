@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file stacks.plx
-# @brief Paper stacks.
+# stacks.plx
 
 use strict;
 use warnings;

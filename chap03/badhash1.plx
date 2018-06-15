@@ -1,5 +1,5 @@
 #!/usr/bin/perl
-# @file badhash1.plx
+# badhash1.plx
 # @brief Use delete() function to remove an entry from a hash.
 
 use strict;

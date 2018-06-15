@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file aslice.plx
-# @brief Array slices.
+# aslice.plx
 
 use strict;
 use warnings;

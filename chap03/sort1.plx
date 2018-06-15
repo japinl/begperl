@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file sort1.plx
-# @brief Use sort operator to sort list.
+# sort1.plx
 
 use strict;
 use warnings;

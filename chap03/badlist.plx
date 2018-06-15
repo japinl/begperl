@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file badlist.plx
-# @brief Do not separate words with commas inside qw//.
+# badlist.plx
 
 use strict;
 use warnings;
