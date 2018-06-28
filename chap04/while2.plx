@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file while2.plx
-# @brief Infinte loops.
+# while2.plx
 
 use strict;
 use warnings;

@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file sdrawkcab1.plx
-# @brief Englist -Sdrawkcab translator.
+# sdrawkcab1.plx
 
 use strict;
 use warnings;
@@ -10,5 +9,4 @@ while (<STDIN>) {
       die "!enod llA\n" unless $_;
       my $sdrawkcab = reverse $_;
       print "$sdrawkcab\n";
-
 }

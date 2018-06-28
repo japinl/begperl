@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file guessnum.plx
-# @brief Guess my number.
+# guessnum.plx
 
 use strict;
 use warnings;

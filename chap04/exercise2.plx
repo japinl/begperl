@@ -1,6 +1,9 @@
 #!/usr/bin/perl
-# @file guessnum-exer.plx
-# @brief Guess my number.
+# exercise2.plx
+#
+# Brief
+#     Modify the number-guessing program guessnum.plx so that it loops until the
+#     correct answer is entered.
 
 use strict;
 use warnings;

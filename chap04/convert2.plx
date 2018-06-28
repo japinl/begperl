@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file convert2.plx
-# @brief Testing invalid keys.
+# convert2.plx
 
 use strict;
 use warnings;

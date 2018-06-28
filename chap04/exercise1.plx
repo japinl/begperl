@@ -1,5 +1,9 @@
 #!/usr/bin/perl
-# convert1.plx
+# exercise1.plx
+#
+# Brief
+#     Modify the currency program convert2.plx to keep asking for currency names
+#     until a valid currency name is entered.
 
 use strict;
 use warnings;
@@ -18,16 +22,33 @@ my ($value, $from, $to, $rate, %rates);
        euro            => 1.5
 );
 
-print "Enter your starting currency: ";
-$from = <STDIN>;
-print "Enter your target currency: ";
-$to = <STDIN>;
+while (1) {
+    print "Enter your starting currency: ";
+    $from = <STDIN>;
+    chomp($from);
+    last if exists $rates{$from};
+}
+
+while (1) {
+    print "Enter your target currency: ";
+    $to = <STDIN>;
+    chomp($to);
+    last if exists $rates{$to};
+}
+
 print "Enter your amout: ";
 $value = <STDIN>;
 
 # get rid of a final new line if one is present but does
 # nothing if there is no new line.
-chomp($from, $to, $value);
+chomp($value);
+
+if (not exists $rates{$to}) {
+    die "I don't know anything about $to as a currency.\n";
+}
+if (not exists $rates{$from}) {
+    die "I don't know anything about $from as a currency.\n";
+}
 $rate = $rates{$to} / $rates{$from};
 
 print "$value $from is ", $value * $rate, " $to.\n";

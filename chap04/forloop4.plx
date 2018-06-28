@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file forloop1.plx
-# @brief Check variable define inside or outside for loop.
+# forloop4.plx
 
 use strict;
 use warnings;

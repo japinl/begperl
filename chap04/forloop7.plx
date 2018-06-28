@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file forloop7.plx
-# @brief Change the iterator on values.
+# forloop7.plx
 
 use strict;
 use warnings;

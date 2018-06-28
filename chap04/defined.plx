@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file defined.plx
-# @brief Defined test.
+# defined.plx
 
 use strict;
 use warnings;

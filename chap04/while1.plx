@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file while1.plx
-# @brief A very simple while loop.
+# while1.plx
 
 use strict;
 use warnings;

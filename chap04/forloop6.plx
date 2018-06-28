@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file forloop6.plx
-# @brief Change things that are constant.
+# forloop6.plx
 
 use strict;
 use warnings;

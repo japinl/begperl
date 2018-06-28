@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file forloop5.plx
-# @brief Aliases and values.
+# forloop5.plx
 
 use strict;
 use warnings;

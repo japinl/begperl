@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file whatsargv.plx
-# @brief What's argv list.
+# whatsargv.plx
 
 use strict;
 use warnings;

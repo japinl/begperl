@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file walkies.plx
-# @brief Want to go for a walk?
+# walkies.plx
 
 use strict;
 use warnings;

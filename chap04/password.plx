@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file password.plx
-# @brief Compare strings.
+# password.plx
 
 use strict;
 use warnings;

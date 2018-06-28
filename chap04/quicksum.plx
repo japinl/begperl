@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file quicksum.plx
-# @brief Quick sum.
+# quicksum.plx
 
 use strict;
 use warnings;

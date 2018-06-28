@@ -1,6 +1,5 @@
 #!/usr/bin/perl
-# @file forloop1.plx
-# @brief Iterate a list.
+# forloop1.plx
 
 use strict;
 use warnings;
