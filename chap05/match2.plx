@@ -4,7 +4,6 @@
 use strict;
 use warnings;
 
-my $found = 0;
 $_ = "Nobody wants to hurt you... 'cept, I do hurt people sometimes, Case.";
 
 if (/I do/) {
