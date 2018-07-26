@@ -8,6 +8,9 @@
 * tail2.plx - print the last five lines in a file (require large memory).
 * fortune.plx - set input record separator (`$/`) to separate content.
 * summary.plx - paragraph summariser.
+* copy.plx - file copying.
+* sort.plx - sort file lines.
+* sort2.plx - sort numeric in file.
 
 ## Notes
 
