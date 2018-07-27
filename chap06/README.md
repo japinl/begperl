@@ -11,6 +11,10 @@
 * copy.plx - file copying.
 * sort.plx - sort file lines.
 * sort2.plx - sort numeric in file.
+* sort3.plx - sort as a filter.
+* logfile.plx - select a log file.
+* time.plx - test `print` buffering.
+* time2.plx - turn off buffering for the currently selected file handle.
 
 ## Notes
 
@@ -19,3 +23,15 @@
    
 2. `$/` **special variable**, input record separator, (undef).
 
+3. `binmode FILEHANDLE;` writing binary data.
+
+4. `localtime` is a function that returns the current time in the local time
+   zone. Ordinarily, it returns a list like this:
+
+   ($sec, $min, $hour,
+    $day_of_month,
+	$month_minus_one,
+	$year_minus_nineteen_hundred,
+	$day_of_week,
+	$day_of_year,
+	$is_this_daylight_savings_time)
