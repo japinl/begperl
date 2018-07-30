@@ -15,6 +15,8 @@
 * logfile.plx - select a log file.
 * time.plx - test `print` buffering.
 * time2.plx - turn off buffering for the currently selected file handle.
+* headline.plx - perl headline.
+* inventory.plx - taking inventory.
 
 ## Notes
 
