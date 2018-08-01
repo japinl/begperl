@@ -37,3 +37,17 @@
 	$day_of_week,
 	$day_of_year,
 	$is_this_daylight_savings_time)
+
+5. File tests
+
+	| Test | Meaning                                                            |
+	|------|--------------------------------------------------------------------|
+	| -e   | True if the file exists.                                           |
+	| -f   | True if the file is a plain file - not a directory.                |
+	| -d   | True if the file is a directory.                                   |
+	| -z   | True if the file has zero size.                                    |
+	| -s   | True if the file has nonzero size - returns size of file in bytes. |
+	| -r   | True if the file is readable by you.                               |
+	| -w   | True if the file is writable by you.                               |
+	| -x   | True if the file is executable by you.                             |
+	| -o   | True if the file is owned by you.                                  |
