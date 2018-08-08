@@ -17,6 +17,9 @@
 * time2.plx - turn off buffering for the currently selected file handle.
 * headline.plx - perl headline.
 * inventory.plx - taking inventory.
+* filetest1.plx - paranoid file writing.
+* glob.plx - glob in perl.
+* directory.plx - examining a directory.
 
 ## Notes
 
